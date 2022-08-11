@@ -1,4 +1,5 @@
-👋 Hi, my name is Facundo, I'm from Uruguay and I'm a junior developer.
+# Hello, how are you ?👋
+My name is Facundo, I'm from Uruguay and I'm a junior developer.
 
 I currently work for Cooperativa Artigas as a credit analyst, I study the career of technologist in computer science.:seedling:	
 
