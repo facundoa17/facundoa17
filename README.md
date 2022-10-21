@@ -1,7 +1,7 @@
 # Hello, how are you ?👋
 My name is Facundo, I'm from Uruguay and I'm a junior developer.
 
-I currently work for Cooperativa Artigas as a credit analyst, I study the career of technologist in computer science.:seedling:	
+I currently work for 2innovate as a backend developer, I study the career of technologist in computer science.:seedling:	
 
 # SKILLS :technologist:	 
 -> Basic knowledge of frontend (HTML, CSS and JavaScript)
